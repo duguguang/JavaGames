@@ -1,3 +1,3 @@
 # JavaGames
-games made by javaSE
-which includes the TankWar Made junior Pratice At WuXi ,JiangSu Province
+games made by javaSE when i was junior pratice
+which includes the TankWar developed in the wuxi, jiangsu province
